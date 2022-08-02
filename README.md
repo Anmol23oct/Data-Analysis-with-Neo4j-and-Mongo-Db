@@ -1,5 +1,5 @@
 # Data-Analysis-with-Neo4j-and-Mondb
-Data Analysis done using optimized graph relation structure in Neo4j integrated from MongoDb Databade 
+Data Analysis done using optimized graph relation structure in Neo4j integrated from MongoDb Database.
 
 
 # Project Description: 
